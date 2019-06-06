@@ -3127,7 +3127,7 @@ jest-worker@^24.0.0:
     merge-stream "^1.0.1"
     supports-color "^6.1.0"
 
-jest@^24.1.0:
+jest@24.1.0:
   version "24.1.0"
   resolved "https://registry.yarnpkg.com/jest/-/jest-24.1.0.tgz#b1e1135caefcf2397950ecf7f90e395fde866fd2"
   integrity sha512-+q91L65kypqklvlRFfXfdzUKyngQLOcwGhXQaLmVHv+d09LkNXuBuGxlofTFW42XMzu3giIcChchTsCNUjQ78A==
@@ -4265,7 +4265,7 @@ posthtml-render@^1.1.0:
   resolved "https://registry.yarnpkg.com/posthtml-render/-/posthtml-render-1.1.4.tgz#95dac09892f4f183fad5ac823f08f42c0256551e"
   integrity sha512-jL6eFIzoN3xUEvbo33OAkSDE2VIKU4JQ1wENOows1DpfnrdapR/K3Q1/fB43Mq7wQlcSgRm23nFrvoioufM7eA==
 
-posthtml@^0.11.3:
+posthtml@0.11.3:
   version "0.11.3"
   resolved "https://registry.yarnpkg.com/posthtml/-/posthtml-0.11.3.tgz#17ea2921b0555b7455f33c977bd16d8b8cb74f27"
   integrity sha512-quMHnDckt2DQ9lRi6bYLnuyBDnVzK+McHa8+ar4kTdYbWEo/92hREOu3h70ZirudOOp/my2b3r0m5YtxY52yrA==
@@ -4525,7 +4525,7 @@ registry-url@^3.0.3:
   dependencies:
     rc "^1.0.1"
 
-release-it@^10.1.0:
+release-it@10.1.0:
   version "10.1.0"
   resolved "https://registry.yarnpkg.com/release-it/-/release-it-10.1.0.tgz#76f73e528b1063da311251c3b4c13a7edf5db5b9"
   integrity sha512-9TDZfeKyGcdMsVuNYLQO+OO3SeZ0+PTw8quZeK1igB/eRFKAi+Bn48umVE7/vAo5/wAaWbrFOuyiVf1R5OMfKQ==
@@ -5016,7 +5016,7 @@ standard-engine@~9.0.0:
     minimist "^1.1.0"
     pkg-conf "^2.0.0"
 
-standard@^12.0.1:
+standard@12.0.1:
   version "12.0.1"
   resolved "https://registry.yarnpkg.com/standard/-/standard-12.0.1.tgz#0fc5a8aa6c34c546c5562aae644242b24dae2e61"
   integrity sha512-UqdHjh87OG2gUrNCSM4QRLF5n9h3TFPwrCNyVlkqu31Hej0L/rc8hzKqVvkb2W3x0WMq7PzZdkLfEcBhVOR6lg==
