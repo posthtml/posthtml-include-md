@@ -17,7 +17,7 @@ module.exports = function (config = {}) {
 
   return function includeMD (tree) {
     tree.match({ tag: 'markdown' }, function (node) {
-      let src = node.attrs.src || false
+      let src = (node.attrs && node.attrs.src) || false
       let content = ''
 
       if (src) {
